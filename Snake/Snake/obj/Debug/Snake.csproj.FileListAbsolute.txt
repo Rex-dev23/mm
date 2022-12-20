@@ -1,0 +1,20 @@
+c:\users\sodrk\documents\visual studio 2015\Projects\Snake\Snake\bin\Debug\Snake.exe.config
+c:\users\sodrk\documents\visual studio 2015\Projects\Snake\Snake\bin\Debug\Snake.exe
+c:\users\sodrk\documents\visual studio 2015\Projects\Snake\Snake\bin\Debug\Snake.pdb
+c:\users\sodrk\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+c:\users\sodrk\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+c:\users\sodrk\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
+c:\users\sodrk\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.exe
+c:\users\sodrk\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.pdb
+c:\users\sodrk\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.Form1.resources
+D:\CSharpProjects-master\Snake\Snake\bin\Debug\Snake.exe.config
+D:\CSharpProjects-master\Snake\Snake\bin\Debug\Snake.exe
+D:\CSharpProjects-master\Snake\Snake\bin\Debug\Snake.pdb
+D:\CSharpProjects-master\Snake\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+D:\CSharpProjects-master\Snake\Snake\obj\Debug\Snake.csproj.SuggestedBindingRedirects.cache
+D:\CSharpProjects-master\Snake\Snake\obj\Debug\Snake.Form1.resources
+D:\CSharpProjects-master\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+D:\CSharpProjects-master\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+D:\CSharpProjects-master\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+D:\CSharpProjects-master\Snake\Snake\obj\Debug\Snake.exe
+D:\CSharpProjects-master\Snake\Snake\obj\Debug\Snake.pdb
